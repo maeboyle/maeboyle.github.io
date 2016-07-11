@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Mae Boyle",
+    "label": "Choose your desired label",
+    "picture": "",
+    "email": "maeb716@gmail.com",
+    "phone": "(207) 542-3935",
+    "website": "http://www.myPersonalWebsite.com",
+    "summary": "A summary of Mae Boyle...",
+    "location": {
+      "address": "9 Dartmouth St #3",
+      "postalCode": "MA 02145",
+      "city": "Somerville",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "MaeBoyle",
+      "url": "http://twitter.com/john"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "MaeBoyle",
+      "url": "https://www.linkedin.com/in/meaghankboyle"
+    }]
+  },
+  "work": [{
+    "company": "Hertz",
+    "position": "Manager trainee",
+    "website": "https://www.hertz.com",
+    "startDate": "2016-02-01",
+    "highlights": [
+      "Coordinated car rentals for both insurance replacement and retail customers",
+      "Established recycling programming",
+      "Assisted in training of new hires"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Heidi Hansen",
+    "reference": "Mae rocks.  Add more here."
+  }]
+}
